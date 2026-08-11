@@ -1,12 +1,12 @@
 # Loadstrings: For the scripts.
 
-```lua
+```luau
 -- only for your screen. use it for recording/streaming.
 getgenv().spoof_name = "builderman"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nondevelopers/nondev-scripts/refs/heads/main/username_spoofer.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nondevelopers/nondev-scripts/main/username_spoofer.luau"))()
 ```
 -
-```lua
+```luau
 -- zombie attack autofarm
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nondevelopers/Vape-UiLibrary/main/scripts/ZombieAttackFarm.lua"))()
 ```
