@@ -8,5 +8,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/nondevelopers/nondev-
 -
 ```luau
 -- zombie attack autofarm
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nondevelopers/Vape-UiLibrary/main/scripts/ZombieAttackFarm.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nondevelopers/Vape-UiLibrary/main/scripts/ZombieAttackFarm.luau"))()
 ```
