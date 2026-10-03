@@ -9,6 +9,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/nondevelopers/nondev-
 ```luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nondevelopers/nondev-scripts/main/ClaudeESPMenu.luau"))()
 ```
-```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nondevelopers/nondev-scripts/main/DefusalMenu.luau"))()
-```
